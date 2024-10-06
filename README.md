@@ -19,4 +19,4 @@ Requirements:
 
 Mockup:
 
-![](./media/image1.png)
+![](../../Desktop/git-taak-1-groep-abc-Imadedf/media/image1.png)
